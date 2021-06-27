@@ -1,0 +1,2 @@
+Finds minimal spanning tree first with Kruskal's algorithm and then with Prim's.
+In Prim's algorithm it is assumed to start from the root.

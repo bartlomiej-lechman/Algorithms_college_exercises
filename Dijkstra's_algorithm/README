@@ -1,0 +1,1 @@
+Implementation of Dijkstra's algorithm for finding the shortest path between two nodes. For a pair of nodes the value is set to max of INT32 value in case of not finding the path yet, or when does not exist.

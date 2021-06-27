@@ -1,0 +1,4 @@
+Implementation of Floyd and Warshal's algorithm. The output matrix should be read that way: the row number is the start node and the
+column number is the destination node. The values in the matrix represents total cost to travel from one node to the second. For
+example, the value under coordinates [0][5] means distance between nodes from 0 to 5. Number 999999 means that the destination node
+is unreachable from the start node.
